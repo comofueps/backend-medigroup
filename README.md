@@ -13,7 +13,9 @@ Ejecuta el siguiente comando para instalar todas las dependencias necesarias:
 
 ```sh
 npm install
+```
 
 Ejecuta el siguiente comando para levantar el servidor
 ```sh
 npm run start
+```
