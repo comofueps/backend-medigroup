@@ -1,0 +1,183 @@
+[
+
+  {
+    "nombre": "María",
+    "apellido": "Gómez",
+    "edad": 32,
+    "altura": 165,
+    "peso_inicial": 70,
+    "genero": "Femenino",
+    "objetivos": "Ganar masa muscular",
+    "progreso": {
+      "peso_actual": 72,
+      "calorias_consumidas": 2500,
+      "calorias_quemadas": 600,
+      "horas_sueno": 8
+    },
+    "citas": {
+      "medicina_general": 10,
+      "psicologia": 8,
+      "especialista": 7
+    }
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "López",
+    "edad": 45,
+    "altura": 180,
+    "peso_inicial": 95,
+    "genero": "Masculino",
+    "objetivos": "Perder peso",
+    "progreso": {
+      "peso_actual": 90,
+      "calorias_consumidas": 1800,
+      "calorias_quemadas": 700,
+      "horas_sueno": 6
+    },
+    "citas": {
+      "medicina_general": 7,
+      "psicologia": 6,
+      "especialista": 9
+    }
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "Martínez",
+    "edad": 30,
+    "altura": 160,
+    "peso_inicial": 60,
+    "genero": "Femenino",
+    "objetivos": "Ganar masa muscular",
+    "progreso": {
+      "peso_actual": 65,
+      "calorias_consumidas": 2300,
+      "calorias_quemadas": 500,
+      "horas_sueno": 7
+    },
+    "citas": {
+      "medicina_general": 10,
+      "psicologia": 10,
+      "especialista": 8
+    }
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Fernández",
+    "edad": 35,
+    "altura": 170,
+    "peso_inicial": 78,
+    "genero": "Masculino",
+    "objetivos": "Perder peso",
+    "progreso": {
+      "peso_actual": 75,
+      "calorias_consumidas": 1900,
+      "calorias_quemadas": 600,
+      "horas_sueno": 8
+    },
+    "citas": {
+      "medicina_general": 9,
+      "psicologia": 8,
+      "especialista": 7
+    }
+  },
+  {
+    "nombre": "Laura",
+    "apellido": "Díaz",
+    "edad": 25,
+    "altura": 168,
+    "peso_inicial": 65,
+    "genero": "Femenino",
+    "objetivos": "Ganar masa muscular",
+    "progreso": {
+      "peso_actual": 68,
+      "calorias_consumidas": 2400,
+      "calorias_quemadas": 700,
+      "horas_sueno": 6
+    },
+    "citas": {
+      "medicina_general": 10,
+      "psicologia": 7,
+      "especialista": 10
+    }
+  },
+  {
+    "nombre": "Pedro",
+    "apellido": "García",
+    "edad": 40,
+    "altura": 172,
+    "peso_inicial": 88,
+    "genero": "Masculino",
+    "objetivos": "Perder peso",
+    "progreso": {
+      "peso_actual": 83,
+      "calorias_consumidas": 2000,
+      "calorias_quemadas": 600,
+      "horas_sueno": 7
+    },
+    "citas": {
+      "medicina_general": 8,
+      "psicologia": 9,
+      "especialista": 8
+    }
+  },
+  {
+    "nombre": "Marta",
+    "apellido": "Ruiz",
+    "edad": 29,
+    "altura": 162,
+    "peso_inicial": 72,
+    "genero": "Femenino",
+    "objetivos": "Ganar masa muscular",
+    "progreso": {
+      "peso_actual": 75,
+      "calorias_consumidas": 2600,
+      "calorias_quemadas": 550,
+      "horas_sueno": 7
+    },
+    "citas": {
+      "medicina_general": 10,
+      "psicologia": 6,
+      "especialista": 9
+    }
+  },
+  {
+    "nombre": "Jorge",
+    "apellido": "Hernández",
+    "edad": 38,
+    "altura": 178,
+    "peso_inicial": 92,
+    "genero": "Masculino",
+    "objetivos": "Perder peso",
+    "progreso": {
+      "peso_actual": 87,
+      "calorias_consumidas": 2100,
+      "calorias_quemadas": 650,
+      "horas_sueno": 8
+    },
+    "citas": {
+      "medicina_general": 9,
+      "psicologia": 7,
+      "especialista": 10
+    }
+  },
+  {
+    "nombre": "Sofía",
+    "apellido": "Torres",
+    "edad": 34,
+    "altura": 158,
+    "peso_inicial": 68,
+    "genero": "Femenino",
+    "objetivos": "Ganar masa muscular",
+    "progreso": {
+      "peso_actual": 70,
+      "calorias_consumidas": 2200,
+      "calorias_quemadas": 600,
+      "horas_sueno": 6
+    },
+    "citas": {
+      "medicina_general": 10,
+      "psicologia": 8,
+      "especialista": 7
+    }
+  }
+]

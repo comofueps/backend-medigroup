@@ -1,0 +1,47 @@
+Usuarios:
+    nombre
+    apellido
+    edad
+    altura
+    peso
+    genero:enum:['Masculino','Femenino]
+    objetivos: enum['Perder peso','Ganar masa muscular']
+    progreso:{
+        peso_actual
+        calorias_consumidas
+        calorias_quemadas
+        horas_sueno
+    }
+    cantidad_citas:{
+        medicina_general
+        especialista
+        psicologia        
+    }
+
+
+
+Alimentos:
+    consumiremos la API ofrecida por medigroup
+
+Comidas:
+    tipo:enum['Desayuno','Media manana','Almuerzo','Merienda','Cena']
+    fecha
+    user_id
+    alimentos_id
+
+rutinas:
+    user_id
+    tipo:enum['Cardio','Fuerza','Aerobicos']
+    fecha
+    ejercicio
+    calorias_quemadas
+    duracion
+
+citas:
+    user_id
+    fecha_programada
+    tipo:enum['Medicina general','Especialista','Psicologia']
+    estado:enum['Programada','Cancelada','Completada','No asistio']
+    
+
+
