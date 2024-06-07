@@ -1,4 +1,4 @@
-[
+export const prueba = [
   {
     "tipo": "Cardiovascular",
     "ejercicio": "Salto de cuerda",

@@ -1,4 +1,5 @@
 import { Rutinas } from "../models/rutinas.models.js";
+import {prueba} from "../data/rutinas.js";
 
 export const crearRutina = async (req, res) => {
   try {
@@ -19,8 +20,9 @@ export const crearRutina = async (req, res) => {
 };
 
 export const obtenerRutinas = async (req, res) => {
-  const rutinas = await Rutinas.find();
-  res.json(rutinas);
+  res.json(prueba);
+  // const rutinas = await Rutinas.find();
+  // res.json(rutinas);
 };
 
 export const obtenerRutinasPorTipo = async (req, res) => {
